@@ -1,6 +1,6 @@
 {
   "name": "selection-is-backward",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,5 @@
     "typescript": "~1.0.1",
     "zuul": "~1.10.2"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
