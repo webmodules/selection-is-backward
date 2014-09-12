@@ -12,7 +12,13 @@
     "url": "git://github.com/webmodules/selection-is-backward.git"
   },
   "keywords": [
-    "browser"
+    "browser",
+    "dom",
+    "selection",
+    "range",
+    "backward",
+    "anchor",
+    "focus"
   ],
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
   "license": "MIT",
