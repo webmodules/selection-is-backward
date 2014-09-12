@@ -1,7 +1,7 @@
 {
   "name": "selection-is-backward",
   "version": "1.0.0",
-  "description": "",
+  "description": "Returns `true` if the Selection is \"backward\", `false` otherwise",
   "main": "index.js",
   "scripts": {
     "prepublish": "tsc --module commonjs --declaration index.ts",
