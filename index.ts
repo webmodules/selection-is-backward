@@ -11,4 +11,4 @@ function isBackward (selection: Selection): boolean {
      (position === 0 && startOffset < endOffset));
 }
 
-export = isBackward;
+export default isBackward;
